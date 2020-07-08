@@ -3,7 +3,9 @@
 /*Das ist eine Steuerung für einen Pool die mit normalen Bauteilen wie Arduino Uno, Shield und Relais aufgebaut werden kann.
   Als Sensor wird der DS18B20 verwendet
   Am Serialmonitor werden die Adressen der angeschlossenen Sensoren auslesen damit man sie in den Variablen anpassen kann
-  Sensor Panel eingefügt*/
+  Sensor Panel eingefügt
+  Testzeile
+  */
 
 
 #include <Arduino.h>
