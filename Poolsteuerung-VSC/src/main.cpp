@@ -5,6 +5,7 @@
   Am Serialmonitor werden die Adressen der angeschlossenen Sensoren auslesen damit man sie in den Variablen anpassen kann
   Sensor Panel eingefügt
   Testzeile 2
+  Testzeile 3
   */
 
 
